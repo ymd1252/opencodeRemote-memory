@@ -175,4 +175,3 @@ node C:\Users\你的用户名\.config\opencode\load-memory-context.js --sync use
 ---
 
 *最后更新：2026-04-27*
-*服务器地址：http://115.120.248.67:3100*
